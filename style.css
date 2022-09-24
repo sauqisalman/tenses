@@ -58,38 +58,6 @@ p {
   margin-right: 10px;
 }
 
-footer {
-  text-align: center;
-  font-family: Nunito;
-}
-
-footer p {
-  font-style: italic;
-  padding: 4px 0;
-  color: whitesmoke;
-  background-color: black;
-  position: relative;
-  bottom: 17px;
-}
-
-.sosmed {
-  padding-top: 8px;
-}
-
-.open {
-  background-color: rgb(27, 26, 26);
-  color: whitesmoke;
-}
-
-.sosmed a {
-  padding: 4px 10px;
-  color: whitesmoke;
-}
-
-.sosmed a:hover {
-  color: cyan;
-}
-
 .material-symbols-outlined {
   position: fixed;
   color: red;
